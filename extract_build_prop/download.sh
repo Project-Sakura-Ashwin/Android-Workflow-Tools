@@ -14,6 +14,6 @@
 # You should have received a copy of the GNU General Public License
 # along with this program; if not, see <http://www.gnu.org/licenses/>.
 
-sudo wget https://sourceforge.net/projects/projectsakura/files/ginkgo/ProjectSakura-5.2-GAPPS-Basic-20210930-0644-ginkgo-OFFICIAL.zip
+sudo wget https://sourceforge.net/projects/projectsakura/files/mojito/ProjectSakura-5.2-GAPPS-Basic-20211011-1406-mojito-OFFICIAL.zip
 
 export IS_DYNAMIC=false
